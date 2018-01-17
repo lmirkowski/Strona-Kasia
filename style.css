@@ -1,0 +1,79 @@
+.main {
+	margin: auto;
+    border: 1px solid white;
+    padding: 0px;
+    width: 90%;
+	min-height: 700px;
+	background: rgb(255,255,204);
+}
+
+.naglowek {
+    margin: 1%;
+    border: none;
+    padding: 1%;
+    width: 96%;
+    text-align: center;
+    background: rgb(230,230,230);
+}
+
+.menu {
+    margin: auto;
+    border: none;
+    padding: 0px;
+    width: 100%;
+    background: rgb(255,255,204);
+}
+	
+.srodek {
+    margin: 1%;
+    border: none;
+    padding: 1%;
+    width: 96%;
+	min-height: 420px;
+    background: rgb(255,255,204);
+}
+
+.tresc {
+    margin: 0%;
+    border: none;
+    padding: 0%;
+    padding-top: 0%;
+    width: 100%;
+    text-align: justify;
+}
+
+.stopka {
+    margin: 1%;
+    border: none;
+    padding: 1%;
+    width: 96%;
+	position: relative;
+	bottom: 100;
+    clear: both;
+    background: rgb(230,230,230);
+    text-align: center;
+}
+
+.h1  {
+	font-family: Georgia;
+	font-size: 300%;
+}
+
+.h3_tresc {
+	color: red;
+	text-align: center;
+}
+
+.h2 {
+	font-family: Georgia;
+}
+
+.ul{ 
+	list-style-type: none;
+}
+
+.p { 
+	font-size: 150%;
+	font-weight: bold;
+	text-align: center;	
+}
